@@ -1,27 +1,24 @@
-Hi, this is Zoraiz a Kotlin-first Android developer focused on building clean, scalable, and user-friendly mobile apps. Passion lies in turning ideas into real Android solutions using modern tools like Jetpack Compose and MVVM architecture.
-​
+Hi, I'm Zoraiz 👋
+Kotlin-first Android Developer focused on building clean, scalable, and user-friendly mobile apps using modern Android development practices.
 
-What I do
-Develop native Android apps with Kotlin, Jetpack Compose, and Android Studio.
-Integrate REST APIs, Firebase (Auth, Firestore/Realtime DB), and local storage with Room/SQLite.
-Implement clean architectures (MVVM), reusable UI components, and responsive layouts.
-​
+🚀 What I Do
+Build native Android apps with Kotlin & Jetpack Compose
+Implement MVVM architecture with ViewModel & Flow
+Integrate REST APIs & Firebase (Auth, Firestore)
+Work with local storage using Room/SQLite
+Create reusable UI components & responsive layouts
 
-Tech stack
-Languages: Kotlin, Java.
-​
-Android: Jetpack Compose, ViewModel, LiveData/Flow, Navigation, WorkManager, Room.
-​
-Backend & services: Firebase (Auth, Firestore, Analytics), REST APIs, JSON.​
+🛠 Tech Stack
+Languages: Kotlin, Java
+Android: Jetpack Compose, ViewModel, Flow, Navigation, WorkManager, Room
+Backend & Services: Firebase, REST APIs, JSON
+Tools: Android Studio, Git, GitHub, Gradle
 
-Tools: Android Studio, Git, GitHub, Gradle.
-​
-
-What I’m working on
-Building and improving Android apps focused on real-world use cases like e-commerce, fitness tracking, and budgeting.
-Exploring better user experiences with Jetpack Compose, Material Design 3, and performance optimization.​
-Planning educational tools for students, including document-based learning helpers.
-​
+📌 Currently Working On
+Real-world Android apps (E-commerce, Fitness, Budgeting)
+Improving UI/UX with Material Design 3
+Performance optimization & scalable architecture
+Educational productivity tools for students​
 
 How to reach me
 Open an issue or start a discussion on any repo for collaboration.
